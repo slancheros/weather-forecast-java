@@ -1,9 +1,0 @@
-server:
-  port: ${PORT:8761} # Eureka
- 
-eureka:
-  client:
-    registerWithEureka: false   #server not to register himself in the service registry
-    fetchRegistry: false
-  server:
-    waitTimeInMsWhenSyncEmpty: 0    #wait time for subsequent sync
