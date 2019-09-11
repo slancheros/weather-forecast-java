@@ -48,8 +48,13 @@ These parameters are part of the URL, like this:
 http://localhost:8010/weekly/{service}/{location}/{units}
 
 
+![Weather Central](/images/WeatherCentral.png)
+
 ## Openmap Weather Service
 This microservice consumes the current weather forecast information from OpenWeather service (https://openweathermap.org/). It receives a json formatted information for a given city(using a city name is ok) in given units (metric /imperial). Using metric units will return temperature in °C (Celsius), whereas imperial units will return temperature in °F (Fahrenheit).
+
+![Openmap Service](/images/OpenMapService.png)
+
 
 # Installation
 
