@@ -45,6 +45,8 @@ Pre- installation requirements:
 
 1. JDK 1.8 and its JRE.
 2. Spring Tool Suite/IntelliJIdea 
+3. Git 2.22.0
+4. Maven 3.5.2
 
 
 
